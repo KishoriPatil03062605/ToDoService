@@ -1,0 +1,5 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://kishoripatil:12345@ds159254.mlab.com:59254/todo_db
