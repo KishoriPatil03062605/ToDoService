@@ -31,5 +31,4 @@ public class ToDoController {
 	ToDos updateTodosForUser(@RequestBody ToDos toDos) {
 		return toDoService.updateTodosForUser(toDos); 
 	}
-	
 }
