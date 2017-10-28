@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.app.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
